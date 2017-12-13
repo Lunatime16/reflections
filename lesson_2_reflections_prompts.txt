@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do 
+you need to do it?
+Initializing a repository begins a new git repo to start
+to save your files. Without a repository you cannot use git.
+
+How is the staging area different from the working directory 
+and the repository? What value do you think it offers?
+The staging area allows the user to make commits for different
+file(s) that may be related and leave out others that aren't 
+while in the same directory.
