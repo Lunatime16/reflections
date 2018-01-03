@@ -25,3 +25,9 @@ each other.
 How do the diagrams help you visualize the branch structure?
 Diagrams can help you see where branches split off and any 
 detached heads.
+
+What is the result of merging two branches together? Why do we 
+represent it in the diagram the way we do?
+Merging two branches together merges changes to files and combines
+commits. The diagram shows each branch going into each other to show
+that they are now one.
