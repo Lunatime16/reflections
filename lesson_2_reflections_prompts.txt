@@ -21,3 +21,7 @@ Branches are helpful when trying a new feature or reworking your
 project significantly but the user still needs to have the original
 working project. Branches would not let the two files interfere with
 each other.
+
+How do the diagrams help you visualize the branch structure?
+Diagrams can help you see where branches split off and any 
+detached heads.
