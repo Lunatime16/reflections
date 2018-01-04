@@ -31,3 +31,9 @@ represent it in the diagram the way we do?
 Merging two branches together merges changes to files and combines
 commits. The diagram shows each branch going into each other to show
 that they are now one.
+
+What are the pros and cons of Git’s automatic merging vs. always 
+doing merges manually?
+Git's automatic merging is fast and doesn't ask the user much but it
+doesn't know how to resolve conflicts. Merging manually takes longer but
+conflicts can be resolved exactly how the user wants it to be.
