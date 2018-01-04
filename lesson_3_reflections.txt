@@ -14,3 +14,13 @@ Forks are used to point back to someone else's repositories and
 give credit. Clones are used to copy a repository onto the user's 
 machine. Branches are used to start a new line of editing that 
 doesn't affect other branches.
+
+What is the benefit of having a copy of the last known state of 
+the remote stored locally?
+The user might be able to resolve merge and resolve conflicts before
+pushing changes.
+
+How would you collaborate without using Git or GitHub? What would be 
+easier, and what would be harder?
+Collaborating wothout using Git or GitHub would be slow and require 
+very careful editing while merging would be difficult and tedious.
